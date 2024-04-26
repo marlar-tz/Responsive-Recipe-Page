@@ -24,7 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-css-flexbox-and-html-responsive-sTt3ONBQgd)
 - Live Site URL: [Live site URL](https://marlar-tz.github.io/Responsive_Recipe_Page/)
 
 ## My process
