@@ -19,7 +19,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
+Desktop design preview
 ![Desktop design preview of my solution](./design/created_by_ML/Desktop_design_byML.png)
+
+Mobile design preview
 ![Mobile design preview of my solution](./design/created_by_ML/Mobile_design_byML.png)
 
 ### Links
