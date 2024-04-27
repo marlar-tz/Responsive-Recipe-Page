@@ -53,6 +53,8 @@ h3 {
 }
 
 #recipe-image {
+    max-width: 100%;
+    height: auto;
     border-radius: 12px;
     margin-top: 40px;
 }
@@ -89,6 +91,14 @@ ol {
     color: hsl(14, 45%, 36%);
 }
 
+#text_color {
+    color: hsl(24, 5%, 18%);
+}
+
+#bold_font {
+    font-weight: 600;
+}
+
 .flex-container>.nutrition {
     padding-bottom: 25px;
 }
@@ -105,6 +115,18 @@ td {
     padding-bottom: 10px;
 
 }
+
+#table_data {
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
+
+#line_break {
+    width: 100%;
+    text-align: center;
+    color: hsl(40, 27%, 98%);
+}
+
 
 .flex-container>.attribution {
     padding-bottom: 25px;
